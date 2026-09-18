@@ -20,6 +20,17 @@ GROMACS (avec les tutos); VMD; montrer comment est organisé un fichier de topol
  suite du cours du jour 1? ou présentation machine learning/IA pour l’analyse des trajectoires? Autre chose?
 ### Après-midi TP: 
 Analyse des trajectoires en Python (Jupyter notebooks; MDAnalysis/mdtraj sklearn pour le ML?)
+- Est-ce que le deplacement global en 3D et la rotation de ma protein m'interesse ? alignement
+- Est-ce que ma simulation est stable ?  l'ion Mg2+ ou le ligand restent-il au meme endroit ? RMSD
+- Quelles parties de la proteine bougent ? RMSF
+- Vois-je des parties qui se foldent/defoldent ? 
+Ramachandran angles, secondary structure 
+- ai-je des interactions de type pi-scacking/salt bridge/leannard jonnes ? distances, tools
+- ai-je des distances comparables a l'experience  ? FRET distances
+- analyse d'une moyenne, d'un ecart type, d'un temps d'autocorrelation, calcul d'une barre d'erreur
+- est-ce que je vois des mouvement globaux ? analyse de correlation de variables. PCA 
+- est-ce que je vois des ensembles  conformations ouvertes/fermées/entredeux ? clustering 
+- projection d'une densité d'etat selon une variable choisie, PMF
 
 - aborder la question de la stochasticité/reproductibilité des simulations; “expériences numériques”;
 - comment valider les simulations? Répliques, comparaison, et comparaison avec des données expérimentales
