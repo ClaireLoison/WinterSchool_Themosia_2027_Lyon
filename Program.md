@@ -1,5 +1,16 @@
 # Support pour les discussions, tout peut être modifié
 
+
+## Dates
+- mi octobre : ouverture inscription ?
+- fin novembre : liste des inscrits
+- 18-22 january 2027 : course
+
+## TODO
+- [ ] parler avec Emmanuel des aspects pratiques
+- [ ] demander aux participants leurs attentes, leurs aquis cote linux/python/MD
+- [ ] prochaine reunion 02/10 9h30
+
 ## Jour 1: introduction à la MD [Florian/Natacha]
 
 ### Matin: Cours théorique: 
@@ -25,7 +36,7 @@ Analyse des trajectoires en Python (Jupyter notebooks; MDAnalysis/mdtraj sklearn
 - Quelles parties de la proteine bougent ? RMSF
 - Vois-je des parties qui se foldent/defoldent ? 
 Ramachandran angles, secondary structure 
-- ai-je des interactions de type pi-scacking/salt bridge/leannard jonnes ? distances, tools
+- ai-je des interactions de type pi-scacking/salt bridge/leannard jonnes ? distances, tools de mesure, de description de reseaux d'interaction ?
 - ai-je des distances comparables a l'experience  ? FRET distances
 - analyse d'une moyenne, d'un ecart type, d'un temps d'autocorrelation, calcul d'une barre d'erreur
 - est-ce que je vois des mouvement globaux ? analyse de correlation de variables. PCA 
